@@ -22,9 +22,13 @@ A comprehensive test automation framework combining **Playwright** + **Cucumber 
 - 🌐 **Multi-Language**: Support for Japanese localization and international testing
 - 📸 **Visual Testing**: Screenshot comparison and visual regression detection
 - 📋 **BDD Approach**: Gherkin-based scenarios for business-readable tests
+- 🗄️ **Database Automation**: MySQL integration for data validation and database testing
+- 🔌 **API Automation**: RESTful API testing with request/response validation
+- 📧 **Email Automation**: Email testing capabilities for notification and communication workflows
 - 📈 **Rich Reporting**: Allure integration with detailed test analytics
 - 🔄 **Smart Execution**: RunManager-controlled test selection and execution
 - 🛡️ **Enterprise Ready**: Proxy support, environment configuration, security features
+- 🎯 **Unified Framework**: Single framework supporting UI, API, Database, and Email testing scenarios
 
 ## 🚀 Quick Start
 ```bash
