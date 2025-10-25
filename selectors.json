@@ -1,0 +1,5 @@
+{
+  "addBackPack": {
+    "primary": "//button[@data-test='add-to-cart-sauce-labs-backpack']"
+  }
+}

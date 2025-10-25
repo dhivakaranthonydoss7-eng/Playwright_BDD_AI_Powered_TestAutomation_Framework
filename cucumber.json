@@ -1,0 +1,17 @@
+{
+  "default": {
+    "formatOptions": {
+      "snippetInterface": "async-await"
+    },
+    "paths": [],
+    "dryRun": false,
+    "require": ["step_definitions/*.step.js", "support/hooks.js"],
+    "format": [
+      "html:reports/24_10_2025_13_16_11/Execution-Report.html",
+      "json:reports/24_10_2025_13_16_11/Execution-Report.json",
+      "./utils/reporter.js:reports/allure.html",
+      "progress-bar"
+    ],
+    "parallel": 1
+  }
+}

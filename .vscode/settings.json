@@ -1,0 +1,9 @@
+{
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "chat.todoListTool.writeOnly": true,
+    "chat.agentSessionsViewLocation": "view",
+    "chat.checkpoints.showFileChanges": true,
+    "chat.edits2.enabled": true,
+    "chat.editor.wordWrap": "on",
+    "chat.mcp.assisted.nuget.enabled": true
+}
