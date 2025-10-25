@@ -5,12 +5,12 @@
 A comprehensive test automation framework combining **Playwright** + **Cucumber BDD** with intelligent AI features for enterprise-grade testing.
 
 **🏗️ Architecture**
-**Features:** Gherkin scenarios in features/*.feature
-**Steps:** Implementation in step_definitions/*.step.js
-**Data:** Excel-driven test data in data.xlsx
-**Pages:** Page object pattern in pageobjects
-**Config:** RunManager.xlsx controls test execution
-**AI Assistant:** GitHub Copilot integration for intelligent test development
+- **Features:** Gherkin scenarios in features/*.feature
+- **Steps:** Implementation in step_definitions/*.step.js
+- **Data:** Excel-driven test data in data.xlsx
+- **Pages:** Page object pattern in pageobjects
+- **Config:** RunManager.xlsx controls test execution
+- **AI Assistant:** GitHub Copilot integration for intelligent test development
  
 ## ✨ Key Features
  
