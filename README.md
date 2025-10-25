@@ -1,5 +1,3 @@
-🎭 AI-Powered Playwright + Cucumber BDD Framework with GitHub Copilot integration, Excel-driven test data, self-healing selectors, visual regression testing, and Allure reporting. Supports multi-language automation with intelligent test synchronization.
-
 # 🎭 AI-Powered Playwright BDD Framework
  
 A comprehensive test automation framework combining **Playwright** + **Cucumber BDD** with intelligent AI features for enterprise-grade testing.
